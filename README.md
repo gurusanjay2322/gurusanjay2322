@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurusanjay2322" alt="gurusanjay2322" /></a> </p>
 
-- 🔭 I’m currently working on [Movies Website](https://movies-gs.vercel.app)
+- 🔭 I’m currently working on [SkingSight API](https://github.com/gurusanjay2322/SkinSight-API)
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **React , Firebase , Nodejs**
 
 - 📫 How to reach me **rkgurusanjay@gmail.com**
 
-- ⚡ Fun fact **I prefer light mode to develop**
+- ⚡ Fun fact **I manually Indent while working in Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
