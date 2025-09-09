@@ -1,32 +1,144 @@
-<h1 align="center">Hi 👋, I'm Guru Sanjay R K</h1>
-<h3 align="center">Developer</h3>
+# Guru Sanjay
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusanjay2322&label=Profile%20views&color=0e75b6&style=flat" alt="gurusanjay2322" /> </p>
+```typescript
+const profile = {
+  name: "Guru Sanjay",
+  bio: "🚀 Engineering student passionate about building scalable and efficient web applications | React | Node.js | Java | Spring Boot
+🔍 Exploring computer vision, ML models, and data-driven solutions with hands-on projects
+🛠 Open-source enthusiast | Always learning, contributing, and leveling up
+📚 M.Tech CSE grad with a problem-solving mindset and industry exposure
+📫 Let’s connect & build something meaningful → [email/LinkedIn if you want to add]",
+  currentWork: "Building a smarter way to glow — developing a skincare suggestion app using ResNet50, transfer learning, and Flask to turn complex data into personalized beauty insights.",
+  learning: "Exploring the world of Computer Vision and Machine Learning with TensorFlow, transfer learning, and model training algorithms — turning data into decisions, one experiment at a time.",
+  interests: "💻 Deep learning & vision models | 🚀 Scalable web apps | 🤝 Open-source | 📊 Data-driven solutions | 🌱 Tech for wellness | 🧠 Always learning",
+  skills: [
+    "React",
+    "CSS3",
+    "HTML5",
+    "Next.js",
+    "Tailwind",
+    "Node.js",
+    "Express",
+    "Django",
+    "MySQL",
+    "MongoDB",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-Learn",
+    "Keras",
+    "OpenCV",
+    "Pandas",
+    "NumPy",
+    "JavaScript",
+    "Python",
+    "C"
+  ],
+}
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurusanjay2322" alt="gurusanjay2322" /></a> </p>
+## 🔭 I'm currently working on
 
-- 🔭 I’m currently working on [SkingSight API](https://github.com/gurusanjay2322/SkinSight-API)
+Building a smarter way to glow — developing a skincare suggestion app using ResNet50, transfer learning, and Flask to turn complex data into personalized beauty insights.
 
-- 🌱 I’m currently learning **Machine Learning**
+## 🌱 I'm currently learning
 
-- 💬 Ask me about **React , Firebase , Nodejs**
+Exploring the world of Computer Vision and Machine Learning with TensorFlow, transfer learning, and model training algorithms — turning data into decisions, one experiment at a time.
 
-- 📫 How to reach me **rkgurusanjay@gmail.com**
+## 👀 I'm interested in
 
-- ⚡ Fun fact **I manually Indent while working in Python**
+💻 Deep learning & vision models | 🚀 Scalable web apps | 🤝 Open-source | 📊 Data-driven solutions | 🌱 Tech for wellness | 🧠 Always learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guru-sanjay-r-k-4b15b3230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guru-sanjay-r-k-4b15b3230" height="30" width="40" /></a>
-<a href="https://instagram.com/__.gs.__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.gs.__22" height="30" width="40" /></a>
-<a href="https://dribbble.com/gurusanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gurusanjay" height="30" width="40" /></a>
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'gurusanjay2322' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gurusanjay2322&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurusanjay2322&show_icons=true&locale=en&layout=compact" alt="gurusanjay2322" /></p>
+<!-- ⚠️ Important: Replace 'gurusanjay2322' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurusanjay2322&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusanjay2322&show_icons=true&locale=en" alt="gurusanjay2322" /></p>
+## 🔝 Most Used Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurusanjay2322&" alt="gurusanjay2322" /></p>
+<!-- ⚠️ Important: Replace 'gurusanjay2322' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusanjay2322&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'gurusanjay2322' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurusanjay2322&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React",
+    "CSS3",
+    "HTML5",
+    "Next.js",
+    "Tailwind"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Django",
+    "MySQL",
+    "MongoDB"
+  ],
+  "ai/ml": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-Learn",
+    "Keras",
+    "OpenCV",
+    "Pandas",
+    "NumPy"
+  ],
+  "languages": [
+    "JavaScript",
+    "Python",
+    "C"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "gurusanjay2322",
+  linkedin: "https://www.linkedin.com/in/guru-sanjay-r-k/",
+  website: "https://iamgs.vercel.app",
+  instagram: "__.gs.__22",
+  devto: "guru_sanjay_rk",
+}
+```
+
+<div>
+<a href="https://github.com/gurusanjay2322"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guru-sanjay-r-k/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://iamgs.vercel.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://instagram.com/__.gs.__22"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://dev.to/guru_sanjay_rk"><img src="https://img.shields.io/badge/devto-%23000000.svg?style=for-the-badge&logo=devto&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "rkgurusanjay@gmail.com",
+  phone: "+919003268427",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
