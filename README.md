@@ -7,7 +7,7 @@ const profile = {
 🔍 Exploring computer vision, ML models, and data-driven solutions with hands-on projects
 🛠 Open-source enthusiast | Always learning, contributing, and leveling up
 📚 M.Tech CSE grad with a problem-solving mindset and industry exposure
-📫 Let’s connect & build something meaningful → [email/LinkedIn if you want to add]",
+📫 Let’s connect & build something meaningful → rkgurusanjay@gmail.com",
   currentWork: "Building a smarter way to glow — developing a skincare suggestion app using ResNet50, transfer learning, and Flask to turn complex data into personalized beauty insights.",
   learning: "Exploring the world of Computer Vision and Machine Learning with TensorFlow, transfer learning, and model training algorithms — turning data into decisions, one experiment at a time.",
   interests: "💻 Deep learning & vision models | 🚀 Scalable web apps | 🤝 Open-source | 📊 Data-driven solutions | 🌱 Tech for wellness | 🧠 Always learning",
